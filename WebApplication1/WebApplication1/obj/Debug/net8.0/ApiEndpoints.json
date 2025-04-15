@@ -1,0 +1,230 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "Getfelhasznalok2",
+    "RelativePath": "api/Felhasznalok2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CommonLibrary.Felhasznalok2, CommonLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "PostFelhasznalok2",
+    "RelativePath": "api/Felhasznalok2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "felhasznalok2",
+        "Type": "CommonLibrary.Felhasznalok2",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CommonLibrary.Felhasznalok2",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "GetFelhasznalok2",
+    "RelativePath": "api/Felhasznalok2/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CommonLibrary.Felhasznalok2",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "PutFelhasznalok2",
+    "RelativePath": "api/Felhasznalok2/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "felhasznalok2",
+        "Type": "CommonLibrary.Felhasznalok2",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "UpdateFelhasznaloNotizByNev",
+    "RelativePath": "api/Felhasznalok2/notiz/{felhasznaloNev}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "felhasznaloNev",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "notizDto",
+        "Type": "WebApplication1.Controllers.Felhasznalok2Controller\u002BFelhasznaloNotizDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.Felhasznalok2Controller",
+    "Method": "RemoveNotizPart",
+    "RelativePath": "api/Felhasznalok2/removePart/{felhasznaloNev}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "felhasznaloNev",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "partToRemove",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.NotizsController",
+    "Method": "GetNotiz",
+    "RelativePath": "api/Notizs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CommonLibrary.Notiz, CommonLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.NotizsController",
+    "Method": "PostNotiz",
+    "RelativePath": "api/Notizs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notiz",
+        "Type": "CommonLibrary.Notiz",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CommonLibrary.Notiz",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.NotizsController",
+    "Method": "GetNotiz",
+    "RelativePath": "api/Notizs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CommonLibrary.Notiz",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.NotizsController",
+    "Method": "PutNotiz",
+    "RelativePath": "api/Notizs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "notiz",
+        "Type": "CommonLibrary.Notiz",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

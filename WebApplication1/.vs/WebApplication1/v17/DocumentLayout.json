@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\elkanei0123\\downloads\\04.11_reszponziv\\webapplication1\\blazorapp1\\layout\\letrehozlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\letrehozlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\elkanei0123\\downloads\\04.11_reszponziv\\webapplication1\\blazorapp1\\layout\\letrehozlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\letrehozlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LetrehozLayout.razor",
+              "DocumentMoniker": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "ToolTip": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "RelativeToolTip": "BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:01:33.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LetrehozLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "ToolTip": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "RelativeToolTip": "BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAUwAcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-15T14:01:36.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
