@@ -185,6 +185,7 @@ C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+<<<<<<< HEAD
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
@@ -196,3 +197,5 @@ C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+=======
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b

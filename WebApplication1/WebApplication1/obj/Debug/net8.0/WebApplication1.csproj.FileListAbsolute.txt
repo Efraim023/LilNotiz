@@ -4884,6 +4884,7 @@ C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\WebApplication
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+<<<<<<< HEAD
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
@@ -5174,3 +5175,5 @@ C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\obj\Debu
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+=======
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b

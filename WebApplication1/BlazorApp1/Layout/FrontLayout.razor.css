@@ -105,9 +105,16 @@ header {
     width: 400px;
     height: 440px;
     user-select: none;
+<<<<<<< HEAD
     background:linear-gradient(180deg, rgb(116,118,120), rgb(59,51,46));
     border: 2px solid rgba(255, 255, 255, .5);
     border-radius: 20px;
+=======
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
     box-shadow: 0 0 30px rgba(0,0,0, .5);
     display: flex;
     justify-content: center;

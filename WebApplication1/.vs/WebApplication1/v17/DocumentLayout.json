@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\",
   "Documents": [
     {
@@ -17,6 +18,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\efraim\\downloads\\lilnotiz_0506\\webapplication1\\blazorapp1\\pages\\modositas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\modositas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\elkanei0123\\downloads\\04.11_reszponziv\\webapplication1\\blazorapp1\\layout\\letrehozlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\letrehozlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\elkanei0123\\downloads\\04.11_reszponziv\\webapplication1\\blazorapp1\\layout\\letrehozlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\letrehozlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -67,10 +80,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-06T20:23:39.442Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LetrehozLayout.razor",
+              "DocumentMoniker": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "ToolTip": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "RelativeToolTip": "BlazorApp1\\Layout\\LetrehozLayout.razor",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:01:33.026Z",
+              "IsPinned": true,
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Modositas.razor",
               "DocumentMoniker": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Pages\\Modositas.razor",
@@ -80,6 +110,18 @@
               "ViewState": "AgIAALYAAAAAAAAAAAApwMcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-06T19:31:08.047Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "LetrehozLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "ToolTip": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "RelativeToolTip": "BlazorApp1\\Layout\\LetrehozLayout.razor.css",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAUwAcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-15T14:01:36.853Z",
+              "IsPinned": true,
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
               "EditorCaption": ""
             }
           ]

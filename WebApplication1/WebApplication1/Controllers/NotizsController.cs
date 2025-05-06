@@ -48,6 +48,7 @@ namespace WebApplication1.Controllers
 
         // PUT: api/Notizs/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+<<<<<<< HEAD
 
         [HttpPut("{id}")]
         public async Task<IActionResult> PutNotiz(int id, Notiz updatedNotiz)
@@ -106,6 +107,37 @@ namespace WebApplication1.Controllers
 
 
 
+=======
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutNotiz(int id, Notiz notiz)
+        {
+            if (id != notiz.ID)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(notiz).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!NotizExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
         // POST: api/Notizs
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]

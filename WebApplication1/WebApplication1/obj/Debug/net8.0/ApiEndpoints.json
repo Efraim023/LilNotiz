@@ -220,7 +220,11 @@
         "IsRequired": true
       },
       {
+<<<<<<< HEAD
         "Name": "updatedNotiz",
+=======
+        "Name": "notiz",
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
         "Type": "CommonLibrary.Notiz",
         "IsRequired": true
       }

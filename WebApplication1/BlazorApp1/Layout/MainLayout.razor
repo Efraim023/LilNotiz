@@ -30,8 +30,11 @@
             await JSRuntime.InvokeVoidAsync("initializeClickEvents", listElement);
             await Task.Delay(100);
             await JSRuntime.InvokeVoidAsync("checkListItems");
+<<<<<<< HEAD
             await Task.Delay(100);
             await JSRuntime.InvokeVoidAsync("bindModositasClick");
+=======
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
         }
     }
 
@@ -222,6 +225,7 @@
         Message = success ? "Sikeresen frissítve!" : "Hiba történt.";
     }
 
+<<<<<<< HEAD
     string modositashozKod;
 
 
@@ -253,6 +257,14 @@
 
 
 
+=======
+    public void menjunk()
+    {
+        Navigate.NavigateTo("/modositas");
+
+    }
+
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 
 }
 
@@ -307,7 +319,11 @@
         <footer>
 
             <h2><ion-icon name="create"></ion-icon> <span class="hozzaad"><a href="/weather"> Notiz létrehozása </a> </span></h2><br>
+<<<<<<< HEAD
             <h2><ion-icon name="build"></ion-icon> <span class="hozzaad"><a id="modositasgomb"> Notiz módosítása </a> </span></h2><br>
+=======
+            <h2><ion-icon name="build"></ion-icon> <span class="hozzaad"><a> Notiz módosítása </a> </span></h2><br>
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
             <h2><ion-icon name="add-circle-outline"></ion-icon> <span class="hozzaad"><a id="notizAdd"> Notiz hozzáadása </a> </span></h2><br>
             <h2><ion-icon name="trash"></ion-icon><span class="hozzaad" @onclick="NotizTorlesFeldobas"><a> Notiz törlése </a> </span></h2><br>
 
@@ -482,6 +498,7 @@
 
                 }
             }
+<<<<<<< HEAD
 
 
           
@@ -524,6 +541,13 @@
 
 
 
+=======
+            
+        </div>
+
+    </div>
+    <script>
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 
         const xd=document.getElementById("katt");
         const lol = document.getElementById("dropmenu");
@@ -615,6 +639,9 @@
     </script>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 
+<<<<<<< HEAD
    
+=======
+>>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 
 </body>
