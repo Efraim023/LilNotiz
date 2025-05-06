@@ -1,9 +1,5 @@
 ::-webkit-scrollbar {
-<<<<<<< HEAD
     width: 2px;
-=======
-    width: 5px;
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 }
 
 ::-webkit-scrollbar-thumb {
@@ -581,7 +577,6 @@ td {
 }
 
 
-<<<<<<< HEAD
 .modositas {
     display: none;
     position: fixed;
@@ -623,8 +618,6 @@ input[type=number]::-webkit-outer-spin-button {
     border:3px groove #4E5766;
     box-shadow:5px 6px 8px #0A0E15;
 }
-=======
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 
 
 

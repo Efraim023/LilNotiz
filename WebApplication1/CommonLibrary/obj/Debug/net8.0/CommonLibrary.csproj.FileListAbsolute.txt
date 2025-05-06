@@ -185,17 +185,14 @@ C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
 C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
-<<<<<<< HEAD
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
-C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
-=======
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Documents\LilNotiz_0507\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll

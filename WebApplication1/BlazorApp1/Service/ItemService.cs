@@ -47,11 +47,8 @@ namespace BlazorApp1.Service
         public string? Username { get; set; }
        public string? ProjectName { get; set; }
 
-<<<<<<< HEAD
         public string? ModositaniKivantNotizIdProp { get; set; }
 
-=======
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
 
         private readonly HttpClient _httpClient;
 
@@ -68,7 +65,6 @@ namespace BlazorApp1.Service
             return response ?? new List<Felhasznalok2>();
            
         }
-<<<<<<< HEAD
 
 
         //Adatbázisba feltölti a módosított projektek részleteit
@@ -88,11 +84,6 @@ namespace BlazorApp1.Service
 
 
 
-=======
-        
-        
-        
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
         //Lekér egy notizid-t az apiból
         public async Task<Notiz?> GetNotizById(string id)
         {

@@ -171,11 +171,7 @@
         <span class="icon-close"><ion-icon name="close-outline"></ion-icon></span>
 
         <div class="form-box login">
-<<<<<<< HEAD
             <h2 >Bejelentkezés</h2>
-=======
-            <h2>Bejelentkezés</h2>
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
             
             <div class="input-box">
                     <span class="icon">
@@ -183,7 +179,7 @@
 
                         </ion-icon>
                     </span>
-                    <input @bind="nevB" type="text">
+                    <input @bind="nevB" type="text" required>
                     <label>Felhasználónév</label>
                 </div>
                 <div class="input-box">
@@ -192,7 +188,7 @@
 
                         </ion-icon>
                     </span>
-                <input @bind="jelszoB" @onkeyup="BillentyuKezelo" type="password">
+                <input @bind="jelszoB" @onkeyup="BillentyuKezelo" type="password" required>
                     <label>Jelszó</label>
                 </div>
 

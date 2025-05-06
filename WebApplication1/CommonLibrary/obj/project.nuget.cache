@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "pRYAtNG3Ic4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj",
-=======
-  "dgSpecHash": "6Zc9FqRYVvI=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj",
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
   "expectedPackageFiles": [],
   "logs": []
 }

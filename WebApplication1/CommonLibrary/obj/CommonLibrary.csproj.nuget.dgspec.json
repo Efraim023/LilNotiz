@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj": {}
   },
   "projects": {
@@ -20,22 +19,6 @@
         "configFilePaths": [
           "C:\\Users\\Efraim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-    "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj",
-        "projectName": "CommonLibrary",
-        "projectPath": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\CommonLibrary.csproj",
-        "packagesPath": "C:\\Users\\elkanei0123\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkanei0123\\Downloads\\04.11_reszponziv\\WebApplication1\\CommonLibrary\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\elkanei0123\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,12 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-<<<<<<< HEAD
         },
         "SdkAnalysisLevel": "9.0.200"
-=======
-        }
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
       },
       "frameworks": {
         "net8.0": {
@@ -86,11 +65,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
->>>>>>> 77e9493cf3178d8d3a8f0caa0ca881dd3428a93b
         }
       }
     }
