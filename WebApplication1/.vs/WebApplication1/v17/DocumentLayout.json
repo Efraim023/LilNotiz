@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6A4416-1297-46CD-ABF5-3BD7A3E19C67}|WebApplication1\\WebApplication1.csproj|c:\\users\\efraim\\downloads\\lilnotiz_0506\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C6A4416-1297-46CD-ABF5-3BD7A3E19C67}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\efraim\\downloads\\lilnotiz_0506\\webapplication1\\blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\efraim\\downloads\\lilnotiz_0506\\webapplication1\\blazorapp1\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\efraim\\downloads\\lilnotiz_0506\\webapplication1\\blazorapp1\\pages\\modositas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BBA9D7E-A915-4C3F-B717-DE2F1365A962}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\modositas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp1\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:52:38.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "BlazorApp1\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAEACAAAAAAAAAAAqwFACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-06T19:58:51.532Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T20:23:39.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modositas.razor",
+              "DocumentMoniker": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Pages\\Modositas.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Modositas.razor",
+              "ToolTip": "C:\\Users\\Efraim\\Downloads\\LilNotiz_0506\\WebApplication1\\BlazorApp1\\Pages\\Modositas.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Modositas.razor",
+              "ViewState": "AgIAALYAAAAAAAAAAAApwMcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:31:08.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

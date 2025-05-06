@@ -1,0 +1,198 @@
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+Z:\Fontos\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+D:\Suli\2024-25 Méhes\lilnotiz\Projekt\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+Z:\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+Z:\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+Z:\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+Z:\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\Febr14, még ujabb notiz\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\OlyanNyakasHogyLeszopodAKAKAST\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.24HallomHalo\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\Megujjabú\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28BUZI\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\02.28-20250304T121508Z-001\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\03.07Zalan\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\02.28\02.25\Projekt\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Pribillaz0707\Desktop\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Én\Desktop\03.26 Efi_zalan ezt toltsd le most\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\elkanei0123\Downloads\03.28DOTNET_CLEAN_FASSZOPO\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Downloads\04.08_kicsit reszponziv\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Efraim\Downloads\LilNotiz_0506\WebApplication1\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
